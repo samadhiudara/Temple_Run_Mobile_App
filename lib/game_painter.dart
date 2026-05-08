@@ -2,9 +2,7 @@
 
 import 'dart:math';
 import 'package:flutter/material.dart';
-
 import 'game_models.dart';
-
 
 class GamePainter extends CustomPainter {
   final GameState gameState;

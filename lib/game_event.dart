@@ -1,7 +1,4 @@
-// lib/bloc/game_event.dart
-
 import 'package:equatable/equatable.dart';
-
 
 abstract class GameEvent extends Equatable {
   const GameEvent();

@@ -1,5 +1,3 @@
-// lib/models/game_models.dart
-
 import 'package:equatable/equatable.dart';
 
 // ─── Enums ───────────────────────────────────────────────────────────────────
